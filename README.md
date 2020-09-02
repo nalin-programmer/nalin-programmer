@@ -37,11 +37,13 @@ Hi, I'm [Nalin Agrawal](https://github.com/nalin-programmer), Competitive Progra
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/android.svg"></code>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact)](https://github.com/nalin-programmer/github-readme-stats)
 <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programme)](https://github.com/nalin-programmer/github-readme-stats)
 </details>
 
