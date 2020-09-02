@@ -30,7 +30,7 @@ Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitiv
 - 👨🏽‍💻 I’m currently working on something cool ;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@nalinagrawal.iiitp@gmail.com](nalinagrawal.iiitp@gmail.com);
+- 📫 How to reach me: [nalinagrawal.iiitp@gmail.com](nalinagrawal.iiitp@gmail.com);
 <br>
 
  ## Languages and Tools:
