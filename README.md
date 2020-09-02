@@ -23,7 +23,7 @@ Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitiv
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## My favorate programming languages:
+## My favourite programming languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>C++<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python<br>
 ## <b>Talking about Personal Stuffs:</b>
