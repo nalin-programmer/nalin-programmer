@@ -9,7 +9,10 @@
 <a href="https://codeforces.com/profile/NalinAgrawal">
   <img align="left" alt="Prerit's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
 </a>
-![](https://visitor-badge.laobi.icu/badge?page_id=nalin.programmer.nalin-programmer)![](https://visitor-badge.glitch.me/badge?page_id=nalin.programmer.nalin-programmer)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=nalin.programmer.nalin-programmer)
+
+![](https://visitor-badge.glitch.me/badge?page_id=nalin.programmer.nalin-programmer)
 <br/>
 <p  style = "font-family:Comic Sans;">
 Hi, I'm [Nalin Agrawal](https://github.com/nalin-programmer), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently, I'm a Collaborating with my College Mates for Completion of big Project [ Virtual Interview Platform ](https://github.com/BTP-Project/Virtual-Interview). Beside's programming, I enjoy learning new things.
