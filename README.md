@@ -14,8 +14,14 @@
 <p  style = "font-family:Comic Sans;">
 Hi, I'm [Nalin Agrawal](https://github.com/nalin-programmer), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently, I'm a Collaborating with my College Mates for Completion of big Project [ Virtual Interview Platform ](https://github.com/BTP-Project/Virtual-Interview). Beside's programming, I enjoy learning new things.
 </p>
-**Languages and Tools:**  
+**Talking about Personal Stuffs:**
 
+- 👨🏽‍💻 I’m currently working on something cool ;
+- 🌱 I’m currently learning Data Structures and Algorithms; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@nalinagrawal.iiitp@gmail.com](nalinagrawal.iiitp@gmail.com);
+
+**Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
