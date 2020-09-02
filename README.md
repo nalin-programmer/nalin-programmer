@@ -6,7 +6,6 @@
   <a href="https://www.codechef.com/users/nalin999">
   <img align="left" alt="Prerit's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
 </a>
-
 <a href="https://codeforces.com/profile/NalinAgrawal">
   <img align="left" alt="Prerit's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
 </a>
