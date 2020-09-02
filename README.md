@@ -15,13 +15,15 @@
 Hi, I'm [Nalin Agrawal](https://github.com/nalin-programmer), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently, I'm a Collaborating with my College Mates for Completion of big Project [ Virtual Interview Platform ](https://github.com/BTP-Project/Virtual-Interview). Beside's programming, I enjoy learning new things.
 </p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-**Talking about Personal Stuffs:**
+
+<br><br>
+##<b>Talking about Personal Stuffs:</b>
 
 - 👨🏽‍💻 I’m currently working on something cool ;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@nalinagrawal.iiitp@gmail.com](nalinagrawal.iiitp@gmail.com);
-
+<br><br>
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
