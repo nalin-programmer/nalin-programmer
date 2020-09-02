@@ -1,8 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**nalin-programmer/nalin-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://www.linkedin.com/in/nalin-agrawal-a73455191/">
   <img align="left" alt="Nalin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
