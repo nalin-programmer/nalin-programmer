@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">NALIN AGRAWAL</h2>
+ <p align="center">Competitive Programmer and Full-Stack Developer</p>
+</p>
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/nalin-agrawal-a73455191/">
