@@ -14,6 +14,7 @@
 <p  style = "font-family:Comic Sans;">
 Hi, I'm [Nalin Agrawal](https://github.com/nalin-programmer), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently, I'm a Collaborating with my College Mates for Completion of big Project [ Virtual Interview Platform ](https://github.com/BTP-Project/Virtual-Interview). Beside's programming, I enjoy learning new things.
 </p>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool ;
