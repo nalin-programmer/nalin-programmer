@@ -42,6 +42,6 @@ Hi, I'm [Nalin Agrawal](https://github.com/nalin-programmer), Competitive Progra
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programme)](https://github.com/nalin-programmer/github-readme-stats)
 </details>
 
