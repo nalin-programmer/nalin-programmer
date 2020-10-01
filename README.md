@@ -48,8 +48,8 @@ Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitiv
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
-<code><img height="20" src="https://https://cdn.worldvectorlogo.com/logos/github-1.svg"></code>
-<code><img height="20" src="https://https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/github-1.svg"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/android.svg"></code>
 <br><br>
