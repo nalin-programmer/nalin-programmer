@@ -42,6 +42,9 @@ Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitiv
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/android.svg"></code>
 <br><br>
