@@ -7,15 +7,18 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/nalin-agrawal/">
-  <img align="left" alt="Nalin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.codechef.com/users/nalin999">
-  <img align="left" alt="Nalin's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
+<img
+src="https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50px" />
 </a>
-<a href="https://codeforces.com/profile/NalinAgrawal">
-  <img align="left" alt="Nalin's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
+<a href="https://www.codechef.com/users/nalin999"><img
+src="https://avatars1.githubusercontent.com/u/11960354?s=460&u=a77c97db3237e61ac0548a9d887f35c74c7e595e&v=4" width="50px"/>
 </a>
-<a href="https://www.linkedin.com/in/nalin-agrawal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/NalinAgrawal"><img
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" width="50px"/>
+</a> 
+<a href="https://leetcode.com/NalinAgrawal/"><img
+src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
+</a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nalin.programmer.nalin-programmer)
 <br/>
