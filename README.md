@@ -1,25 +1,26 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">NALIN AGRAWAL</h2>
- <p align="center">Competitive Programmer and Full-Stack Developer</p>
+ <p align="center">Competitive Programmer and MERN-Stack Developer</p>
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/nalin-agrawal-a73455191/">
+<a href="https://www.linkedin.com/in/nalin-agrawal/">
   <img align="left" alt="Nalin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.codechef.com/users/nalin999">
-  <img align="left" alt="Prerit's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
+  <img align="left" alt="Nalin's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/NalinAgrawal">
-  <img align="left" alt="Prerit's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
+  <img align="left" alt="Nalin's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
 </a>
+<a href="https://www.linkedin.com/in/nalin-agrawal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nalin.programmer.nalin-programmer)
 <br/>
 
-Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitive Programmer and a Full Stack Developer 🚀 from India.I enjoy learning new things.
+Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitive Programmer and a MERN Stack Developer 🚀 from India.I enjoy learning new things.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
