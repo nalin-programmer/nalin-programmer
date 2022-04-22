@@ -11,7 +11,8 @@
 
 I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitive Programmer and a MERN Stack Developer 🚀 from India.I enjoy learning new things.
 Check out my 🔗<b><a href="https://nalin-programmer.github.io/Portfolio/">Portfolio</a></b><br/>
-<h2 align="center"> Feel free to contact me 😃 and connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"></h2>
+
+## Currently active in
 <a href="https://www.linkedin.com/in/nalin-agrawal/">
 <img
 src="https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50px" />
@@ -24,6 +25,8 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" width
 </a> 
 <a href="https://leetcode.com/NalinAgrawal/"><img
 src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
+</a>
+<a href="https://github.com/nalin-programmer"><img src="https://camo.githubusercontent.com/d0518022b7a02d405ad5112a0c8aa455cbfe952e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" width="50px" />
 </a>
 <br/>
 
