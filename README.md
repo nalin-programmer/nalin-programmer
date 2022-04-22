@@ -1,3 +1,5 @@
+
+![](https://visitor-badge.laobi.icu/badge?page_id=nalin.programmer.nalin-programmer)
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">NALIN AGRAWAL</h2>
@@ -6,9 +8,8 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=nalin.programmer.nalin-programmer)<br/>
 
-Hi, I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitive Programmer and a MERN Stack Developer 🚀 from India.I enjoy learning new things.
+I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitive Programmer and a MERN Stack Developer 🚀 from India.I enjoy learning new things.
 Check out my 🔗<b><a href="https://nalin-programmer.github.io/Portfolio/">Portfolio</a></b><br/>
 <h2 align="center"> Feel free to contact me 😃 and connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"></h2>
 <a href="https://www.linkedin.com/in/nalin-agrawal/">
