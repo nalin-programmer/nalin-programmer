@@ -9,8 +9,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I'm [Nalin Agrawal](https://https://github.com/nalin-programmer), Competitive Programmer and a MERN Stack Developer 🚀 from India.I enjoy learning new things.
-Check out my 🔗<b><a href="https://nalin-programmer.github.io/Portfolio/">Portfolio</a></b><br/>
+I'm [Nalin Agrawal](https://www.linkedin.com/in/nalin-agrawal/), Competitive Programmer and a MERN Stack Developer 🚀 from India.I enjoy learning new things.
+Check out my <b><a href="https://nalin-programmer.github.io/Portfolio/">Portfolio</a></b><br/>
 
 ## Currently active in
 <a href="https://www.linkedin.com/in/nalin-agrawal/">
