@@ -61,19 +61,15 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-1.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
 
-
-<br><br>
 ## 📈 My GitHub Stats
 
 [![Nalin's github stats](https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=react)](https://github.com/nalin-programmer/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nalin-programmer&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" /> -->
-<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact&theme=dark)](https://github.com/nalin-programmer/github-readme-stats)
  
- </p>
