@@ -48,12 +48,14 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/android.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/android-4.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
 <code><img height="25" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
