@@ -34,7 +34,7 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>C++<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python<br>
 ## <b>Talking about Personal Stuffs:</b>
-- 👨🏽‍💻 I’m currently working on something cool ;
+- 👨🏽‍💻 I'm working on various Web Development Projects ;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [nalinagrawal333@gmail.com](nalinagrawal333@gmail.com);
