@@ -63,8 +63,8 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 
 <br><br>
 <summary>📈 My GitHub Stats</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact)](https://github.com/nalin-programmer/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nalin-programmer)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact&theme=dark)](https://github.com/nalin-programmer/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nalin-programmer&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" />
 
