@@ -55,8 +55,9 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/yarn.svg"></code>
 <code><img height="25" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
