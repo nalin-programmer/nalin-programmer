@@ -41,7 +41,7 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 - 👨🏽‍💻 I'm working on various Web Development Projects ;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [nalinagrawal333@gmail.com](nalinagrawal333@gmail.com);
+<!-- - 📫 How to reach me: [nalinagrawal333@gmail.com](nalinagrawal333@gmail.com); -->
 <br>
 
  ## Languages and Tools:
