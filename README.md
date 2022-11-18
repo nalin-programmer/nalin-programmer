@@ -67,6 +67,9 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
 
+ ## Hacktoberfest Badges
+ [![@nalinagrawal's Holopin board](https://holopin.me/nalinagrawal)](https://holopin.io/@nalinagrawal)
+
 ## 📈 My GitHub Stats
 
 [![Nalin's github stats](https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=react)](https://github.com/nalin-programmer/github-readme-stats)
