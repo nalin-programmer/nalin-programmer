@@ -11,6 +11,7 @@
 
 I'm <b> [Nalin Agrawal](https://www.linkedin.com/in/nalin-agrawal/) </b>, Competitive Programmer 👨‍💻 and MERN Stack Developer 🚀 from India. I enjoy learning new things.
 Check out my <b><a href="https://nalin-programmer.github.io/Portfolio/">Portfolio</a></b><br/>
+Contact me at <b>nalinagrawal.iiitp@gmail.com</b><br/>
 
 ## Currently active in
 <a href="https://www.linkedin.com/in/nalin-agrawal/">
@@ -44,7 +45,7 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <!-- - 📫 How to reach me: [nalinagrawal333@gmail.com](nalinagrawal333@gmail.com); -->
 <br>
 
- ## Languages and Tools:
+ ## 🛠️ Languages and Tools:
  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -67,15 +68,20 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
 
- ## Hacktoberfest Badges
+## 🏆 Hacktoberfest Badges
  [![@nalinagrawal's Holopin board](https://holopin.me/nalinagrawal)](https://holopin.io/@nalinagrawal)
+
+## 🧑‍💻 Coading Profiles
+[![Nalin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=NalinAgrawal&theme=dark)](https://leetcode.com/NalinAgrawal/)
+[![Nalin's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nalinagrawal123)](https://auth.geeksforgeeks.org/user/nalinagrawal123)
 
 ## 📈 My GitHub Stats
 
 [![Nalin's github stats](https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=react)](https://github.com/nalin-programmer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact&theme=dark)](https://github.com/nalin-programmer/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nalin-programmer&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact&theme=dark)](https://github.com/nalin-programmer/github-readme-stats)
+
  
