@@ -38,11 +38,12 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 ## My favourite programming languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>C++<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python<br>
+
 ## <b>Talking about Personal Stuffs:</b>
 - 👨🏽‍💻 I'm working on various Web Development Projects ;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-<!-- - 📫 How to reach me: [nalinagrawal333@gmail.com](nalinagrawal333@gmail.com); -->
+- 📫 How to reach me: [nalinagrawal.iiitp@gmail.com](nalinagrawal.iiitp@gmail.com); 
 <br>
 
  ## 🛠️ Languages and Tools:
@@ -68,12 +69,18 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png"></code>
 
-## 🏆 Hacktoberfest Badges
+## ⭐ Hacktoberfest Badges
  [![@nalinagrawal's Holopin board](https://holopin.me/nalinagrawal)](https://holopin.io/@nalinagrawal)
 
 ## 🧑‍💻 Coading Profiles
-[![Nalin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=NalinAgrawal&theme=dark)](https://leetcode.com/NalinAgrawal/)
+<p align="center">
+<img  src="https://leetcard.jacoblin.cool/NalinAgrawal?theme=light"/>
+<img  src="https://codeforces-stats-api.herokuapp.com/stats?username=NalinAgrawal&theme=1"/>
+<img  src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nalinagrawal123"/>
+</p>
+<!--[![Nalin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=NalinAgrawal&theme=dark)](https://leetcode.com/NalinAgrawal/)
 [![Nalin's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nalinagrawal123)](https://auth.geeksforgeeks.org/user/nalinagrawal123)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=NalinAgrawal&theme=1)-->
 
 ## 📈 My GitHub Stats
 <p float="left" align="center">
@@ -89,5 +96,7 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 </p>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" /> -->
 
-
- 
+## 🏆 Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nalin-programmer&theme=onedark&column=4&no-bg=true"></img>
+</div>
