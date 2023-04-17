@@ -24,7 +24,7 @@ src="https://avatars1.githubusercontent.com/u/11960354?s=460&u=a77c97db3237e61ac
 <a href="https://codeforces.com/profile/NalinAgrawal"><img
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" width="50px"/>
 </a> 
-<a href="https://leetcode.com/NalinAgrawal/"><img
+<a href="https://leetcode.com/nalin-programmer/"><img
 src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 </a>
 <a href="https://github.com/nalin-programmer"><img src="https://camo.githubusercontent.com/d0518022b7a02d405ad5112a0c8aa455cbfe952e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" width="50px" />
