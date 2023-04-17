@@ -74,7 +74,7 @@ src="https://leetcode.com/static/images/LeetCode_logo.png" width="50px"/>
 
 ## 🧑‍💻 Coading Profiles
 <p align="center">
-<img  src="https://leetcard.jacoblin.cool/NalinAgrawal?theme=light"/>
+<img  src="https://leetcard.jacoblin.cool/nalin-programmer?theme=light"/>
 <img  src="https://codeforces-stats-api.herokuapp.com/stats?username=NalinAgrawal&theme=1"/>
 <img  src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nalinagrawal123"/>
 </p>
